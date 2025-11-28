@@ -1,6 +1,7 @@
 HAY 2 ARCHIVOS:
 
 El .ipynb que es un cuaderno de Jupyter sacado de googleColab con todo el código, explicaciones y resultados de las redes neuronales, junto a gráficos y matrices de confusión.
+Enlace al proyecto en googleColab: https://drive.google.com/file/d/1xfYBpIeBs1Z8HY0glausZ2O9LCPH56eo/view?usp=sharing
 
 Y el .py que contiene solo el código de la práctica.
 
