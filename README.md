@@ -1,3 +1,7 @@
+SAMUEL DÍAZ GONZÁLEZ TP1
+
+CLASIFICADOR DE IMÁGNES DE 10 CLASES DE ANIMALES
+
 HAY 2 ARCHIVOS:
 
 El .ipynb que es un cuaderno de Jupyter sacado de googleColab con todo el código, explicaciones y resultados de las redes neuronales, junto a gráficos y matrices de confusión.
